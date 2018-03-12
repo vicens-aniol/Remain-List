@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Gotham_A;
+  src: url(fonts/GothamMedium.ttf);
+}
+body {
+}
+.buttons {
+  margin-top:30px;
+}
+p {
+  display:block;
+  padding:20px;
+  font-family: "Gotham_A";
+}
+#li_1 {
+  background:rgba(255, 57, 57, 1);
+}
